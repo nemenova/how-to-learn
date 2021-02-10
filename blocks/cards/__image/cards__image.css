@@ -1,6 +1,7 @@
 .cards__image{
+display: flex;
 border-radius: 50%;
 width: 160px;
 height: 160px;
-margin: 0px 40px 43px 40px;
+margin: 0px auto 43px auto;
 }

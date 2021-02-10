@@ -1,5 +1,6 @@
 .cards__item{
-display: inline-block;
+display: flex;
+flex-direction: column;
 width: 240px;
 margin-right: 100px;
 margin-top: 60px;

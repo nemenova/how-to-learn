@@ -1,6 +1,4 @@
 .header__title {
-display: flex;
-flex-direction: column;
 line-height: 96px;
 max-width: 730px;
 font-size: 102px;
